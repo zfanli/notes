@@ -4,4 +4,4 @@
 
 ### Post Subjects
 - [ ] get element with id by type it directly in console.
-
+- [ ] go though the git basics, for instance, undo commit, back to certain version, etc.
