@@ -20,6 +20,10 @@
 
 正确的控制曝光，复杂情况下如何曝光。
 
+### 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/5.DepthOfField.md)
+
+虚实，景深。
+
 ## Post Subjects
 
 - [ ] get element with id by type it directly in console.
