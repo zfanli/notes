@@ -14,7 +14,11 @@
 
 ### 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/3.AmbientLight.md)
 
-介绍环境光。
+介绍环境光和摄影布光。
+
+### 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/4.ExposureAdvanced.md)
+
+正确的控制曝光，复杂情况下如何曝光。
 
 ## Post Subjects
 
