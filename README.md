@@ -22,7 +22,11 @@
 
 ### 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/5.DepthOfField.md)
 
-虚实，景深。
+虚实，景深，慢门，拍不清楚的原因。
+
+### 6.[《摄影笔记》读书笔记（构图）](https://github.com/zfanli/notes/blob/master/photography/6.Composition.md)
+
+构图。
 
 ## Post Subjects
 
