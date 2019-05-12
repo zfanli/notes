@@ -54,4 +54,4 @@
 
 # 相关
 
-> 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/5.DepthOfField.md)
+> 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/EP1.5.DepthOfField.md)

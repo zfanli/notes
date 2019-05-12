@@ -86,4 +86,4 @@
 
 # 相关
 
-> 2.[《摄影笔记》读书笔记（曝光）](https://github.com/zfanli/notes/blob/master/photography/2.ExposureBasics.md)
+> 2.[《摄影笔记》读书笔记（曝光）](https://github.com/zfanli/notes/blob/master/photography/EP1.2.ExposureBasics.md)

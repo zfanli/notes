@@ -150,6 +150,6 @@ f/2, 1/60, 200
 
 # 相关
 
-> 1.[《摄影笔记》读书笔记（取景）](https://github.com/zfanli/notes/blob/master/photography/1.Basics.md)
+> 1.[《摄影笔记》读书笔记（取景）](https://github.com/zfanli/notes/blob/master/photography/EP1.1.Basics.md)
 >
-> 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/3.AmbientLight.md)
+> 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/EP1.3.AmbientLight.md)

@@ -232,6 +232,6 @@ ISO 增强 2 档（曝光量 4 倍），GN 值增加 2 倍。
 
 # 相关
 
-> 2.[《摄影笔记》读书笔记（曝光）](https://github.com/zfanli/notes/blob/master/photography/2.ExposureBasics.md)
+> 2.[《摄影笔记》读书笔记（曝光）](https://github.com/zfanli/notes/blob/master/photography/EP1.2.ExposureBasics.md)
 >
-> 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/4.ExposureAdvanced.md)
+> 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/EP1.4.ExposureAdvanced.md)

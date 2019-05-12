@@ -74,6 +74,6 @@ HDR 针对风光比较合适，画面中如果有动的东西使用 HDR 很难�
 
 # 相关
 
-> 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/3.AmbientLight.md)
+> 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/EP1.3.AmbientLight.md)
 >
-> 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/5.DepthOfField.md)
+> 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/EP1.5.DepthOfField.md)

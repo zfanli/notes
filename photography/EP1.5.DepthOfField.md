@@ -88,6 +88,6 @@
 
 # 相关
 
-> 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/4.ExposureAdvanced.md)
+> 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/EP1.4.ExposureAdvanced.md)
 >
-> 6.[《摄影笔记》读书笔记（构图）](https://github.com/zfanli/notes/blob/master/photography/6.Composition.md)
+> 6.[《摄影笔记》读书笔记（构图）](https://github.com/zfanli/notes/blob/master/photography/EP1.6.Composition.md)
