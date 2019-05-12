@@ -26,7 +26,7 @@
 
 ### 6.[《摄影笔记》读书笔记（构图）](https://github.com/zfanli/notes/blob/master/photography/6.Composition.md)
 
-构图。
+构图技巧，和总复习。
 
 ## Post Subjects
 
