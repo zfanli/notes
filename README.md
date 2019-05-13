@@ -2,6 +2,12 @@
 
 技术笔记，摄影笔记，读书笔记等。
 
+## EP0 摄影光学
+
+### 1.[《摄影光线与镜头》光学基础](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
+
+光的特性，光学基本定律。
+
 ## EP2 摄影笔记实战篇
 
 ### 1.[《摄影笔记实战篇》风光摄影](https://github.com/zfanli/notes/blob/master/photography/EP2.1.LandscapePhotography.md)
