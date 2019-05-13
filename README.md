@@ -2,9 +2,9 @@
 
 技术笔记，摄影笔记，读书笔记等。
 
-## EP3 摄影光学
+## EP3 摄影光学与镜头
 
-### 1.[《摄影光线与镜头》光学基础](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
+### 1.[《摄影光学与镜头》光学基础](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
 
 光的特性，光学基本定律。
 
