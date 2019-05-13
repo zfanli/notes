@@ -2,7 +2,7 @@
 
 技术笔记，摄影笔记，读书笔记等。
 
-## EP0 摄影光学
+## EP3 摄影光学
 
 ### 1.[《摄影光线与镜头》光学基础](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
 
