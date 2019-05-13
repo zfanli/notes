@@ -2,6 +2,12 @@
 
 技术笔记，摄影笔记，读书笔记等。
 
+## EP2 摄影笔记实战篇
+
+### 1.[《摄影笔记实战篇》风光摄影](https://github.com/zfanli/notes/blob/master/photography/EP2.1.LandscapePhotography.md)
+
+风光摄影，片段总结。
+
 ## EP1 摄影笔记
 
 ### 1.[《摄影笔记》读书笔记（取景）](https://github.com/zfanli/notes/blob/master/photography/EP1.1.Basics.md)
