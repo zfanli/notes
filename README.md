@@ -10,6 +10,12 @@
 
 技术笔记。
 
+### EP1 Swift
+
+#### 1.[Official Documentation - Introducing Swift 5](https://github.com/zfanli/notes/blob/master/swift/1.SwiftIntroduction.md)
+
+Swift 基础。
+
 ## PHOTOGRAPHY
 
 摄影笔记。
