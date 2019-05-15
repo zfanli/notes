@@ -14,7 +14,11 @@
 
 #### 1.[Official Documentation - Introducing Swift 5](https://github.com/zfanli/notes/blob/master/swift/1.SwiftIntroduction.md)
 
-Swift 基础。
+Swift 官方介绍。特性，功能介绍。
+
+#### 2.[Official Tutorial - Swift Syntax Basics](https://github.com/zfanli/notes/blob/master/swift/2.SwiftSyntaxBasis.md)
+
+语法基础。
 
 ## PHOTOGRAPHY
 
