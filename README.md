@@ -16,9 +16,13 @@
 
 Swift 官方介绍。特性，功能介绍。
 
-#### 2.[Official Tutorial - Swift Syntax Basics](https://github.com/zfanli/notes/blob/master/swift/2.SwiftSyntaxBasis.md)
+#### 2.[Swift Syntax Basics (字符串和变量)](https://github.com/zfanli/notes/blob/master/swift/2.SyntaxBasicsPart1.md)
 
-语法基础。
+字符串和变量。
+
+#### 3.[Swift Syntax Basics (流程控制)](https://github.com/zfanli/notes/blob/master/swift/3.SyntaxBasicsPart2.md)
+
+流程控制。
 
 ## PHOTOGRAPHY
 
