@@ -5,6 +5,8 @@
 ## TODOs
 
 - [ ] Swift
+  - [ ] Introduction
+  - [ ] Syntax Basics
 
 ## PROGRAMING
 
