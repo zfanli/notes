@@ -26,6 +26,10 @@ Swift 官方介绍。特性，功能介绍。
 
 流程控制。
 
+#### 4.[Swift Syntax Basics (函数和闭包)](https://github.com/zfanli/notes/blob/master/swift/4.SyntaxBasicsPart3.md)
+
+函数和闭包。
+
 ## PHOTOGRAPHY
 
 摄影笔记。
