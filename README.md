@@ -34,6 +34,10 @@ Swift 官方介绍。特性，功能介绍。
 
 对象和类。
 
+#### 6.[Swift Syntax Basics (枚举类型和结构体)](<https://github.com/zfanli/notes/blob/master/swift/6.SyntaxBascis(Enumerations&Structures).md>)
+
+枚举类型和结构体。
+
 ## PHOTOGRAPHY
 
 摄影笔记。
