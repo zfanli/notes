@@ -46,6 +46,10 @@
 
 > 错误处理。
 
+- 9.[Swift Syntax Basics (泛型)](<https://github.com/zfanli/notes/blob/master/swift/9.SyntaxBasics(Generics).md>)
+
+> 泛型。
+
 ## PHOTOGRAPHY
 
 摄影笔记。
