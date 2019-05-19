@@ -34,11 +34,11 @@ Swift 官方介绍。特性，功能介绍。
 
 对象和类。OOP 基础。
 
-#### 6.[Swift Syntax Basics (枚举类型和结构体)](<https://github.com/zfanli/notes/blob/master/swift/6.SyntaxBascis(Enumerations&Structures).md>)
+#### 6.[Swift Syntax Basics (枚举类型和结构体)](<https://github.com/zfanli/notes/blob/master/swift/6.SyntaxBasics(Enumerations&Structures).md>)
 
 枚举类型和结构体。
 
-#### 7.[Swift Syntax Basics (协议和扩展)](<https://github.com/zfanli/notes/blob/master/swift/7.SyntaxBascis(Protocols&Extensions).md>)
+#### 7.[Swift Syntax Basics (协议和扩展)](<https://github.com/zfanli/notes/blob/master/swift/7.SyntaxBasics(Protocols&Extensions).md>)
 
 协议和扩展。
 
