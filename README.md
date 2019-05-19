@@ -14,33 +14,37 @@
 
 ### EP1 Swift
 
-#### 1.[Official Documentation - Introducing Swift 5](https://github.com/zfanli/notes/blob/master/swift/1.SwiftIntroduction.md)
+- 1.[Official Documentation - Introducing Swift 5](https://github.com/zfanli/notes/blob/master/swift/1.SwiftIntroduction.md)
 
 Swift 官方介绍。特性，功能介绍。
 
-#### 2.[Swift Syntax Basics (字符串和变量)](<https://github.com/zfanli/notes/blob/master/swift/2.SyntaxBasics(Strings&Variables).md>)
+- 2.[Swift Syntax Basics (字符串和变量)](<https://github.com/zfanli/notes/blob/master/swift/2.SyntaxBasics(Strings&Variables).md>)
 
 字符串和变量。如何声明一个变量，定义变量的类型和可选型变量。
 
-#### 3.[Swift Syntax Basics (流程控制)](<https://github.com/zfanli/notes/blob/master/swift/3.SyntaxBasics(FlowControl).md>)
+- 3.[Swift Syntax Basics (流程控制)](<https://github.com/zfanli/notes/blob/master/swift/3.SyntaxBasics(FlowControl).md>)
 
 流程控制。判断和循环。
 
-#### 4.[Swift Syntax Basics (函数和闭包)](<https://github.com/zfanli/notes/blob/master/swift/4.SyntaxBasics(Functions&Closures).md>)
+- 4.[Swift Syntax Basics (函数和闭包)](<https://github.com/zfanli/notes/blob/master/swift/4.SyntaxBasics(Functions&Closures).md>)
 
 函数和闭包。声明闭包，函数和匿名函数。
 
-#### 5.[Swift Syntax Basics (对象和类)](<https://github.com/zfanli/notes/blob/master/swift/5.SyntaxBasics(Objects&Classes).md>)
+- 5.[Swift Syntax Basics (对象和类)](<https://github.com/zfanli/notes/blob/master/swift/5.SyntaxBasics(Objects&Classes).md>)
 
 对象和类。OOP 基础。
 
-#### 6.[Swift Syntax Basics (枚举类型和结构体)](<https://github.com/zfanli/notes/blob/master/swift/6.SyntaxBasics(Enumerations&Structures).md>)
+- 6.[Swift Syntax Basics (枚举类型和结构体)](<https://github.com/zfanli/notes/blob/master/swift/6.SyntaxBasics(Enumerations&Structures).md>)
 
 枚举类型和结构体。
 
-#### 7.[Swift Syntax Basics (协议和扩展)](<https://github.com/zfanli/notes/blob/master/swift/7.SyntaxBasics(Protocols&Extensions).md>)
+- 7.[Swift Syntax Basics (协议和扩展)](<https://github.com/zfanli/notes/blob/master/swift/7.SyntaxBasics(Protocols&Extensions).md>)
 
 协议和扩展。
+
+- 8.[Swift Syntax Basics (错误处理)](<https://github.com/zfanli/notes/blob/master/swift/8.SyntaxBasics(ErrorHandling).md>)
+
+错误处理。
 
 ## PHOTOGRAPHY
 
@@ -48,39 +52,39 @@ Swift 官方介绍。特性，功能介绍。
 
 ### EP3 摄影光学与镜头
 
-#### 1.[《摄影光学与镜头》光学基础](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
+- 1.[《摄影光学与镜头》光学基础](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
 
 光的特性，光学基本定律。
 
 ### EP2 摄影笔记实战篇
 
-#### 1.[《摄影笔记实战篇》风光摄影](https://github.com/zfanli/notes/blob/master/photography/EP2.1.LandscapePhotography.md)
+- 1.[《摄影笔记实战篇》风光摄影](https://github.com/zfanli/notes/blob/master/photography/EP2.1.LandscapePhotography.md)
 
 风光摄影，片段总结。
 
 ### EP1 摄影笔记
 
-#### 1.[《摄影笔记》读书笔记（取景）](https://github.com/zfanli/notes/blob/master/photography/EP1.1.Basics.md)
+- 1.[《摄影笔记》读书笔记（取景）](https://github.com/zfanli/notes/blob/master/photography/EP1.1.Basics.md)
 
 关于摄影的定义，相机和镜头的基础，和一些取景的知识技巧。
 
-#### 2.[《摄影笔记》读书笔记（曝光）](https://github.com/zfanli/notes/blob/master/photography/EP1.2.ExposureBasics.md)
+- 2.[《摄影笔记》读书笔记（曝光）](https://github.com/zfanli/notes/blob/master/photography/EP1.2.ExposureBasics.md)
 
 操作相机进行曝光的基础。
 
-#### 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/EP1.3.AmbientLight.md)
+- 3.[《摄影笔记》读书笔记（环境光）](https://github.com/zfanli/notes/blob/master/photography/EP1.3.AmbientLight.md)
 
 介绍环境光和摄影布光。
 
-#### 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/EP1.4.ExposureAdvanced.md)
+- 4.[《摄影笔记》读书笔记（曝光进阶）](https://github.com/zfanli/notes/blob/master/photography/EP1.4.ExposureAdvanced.md)
 
 正确的控制曝光，复杂情况下如何曝光。
 
-#### 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/EP1.5.DepthOfField.md)
+- 5.[《摄影笔记》读书笔记（虚实）](https://github.com/zfanli/notes/blob/master/photography/EP1.5.DepthOfField.md)
 
 虚实，景深，慢门，拍不清楚的原因。
 
-#### 6.[《摄影笔记》读书笔记（构图）](https://github.com/zfanli/notes/blob/master/photography/EP1.6.Composition.md)
+- 6.[《摄影笔记》读书笔记（构图）](https://github.com/zfanli/notes/blob/master/photography/EP1.6.Composition.md)
 
 构图技巧，和总复习。
 
