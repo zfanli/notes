@@ -35,3 +35,7 @@
 - 9.[Swift Syntax Basics (泛型)](<https://github.com/zfanli/notes/blob/master/swift/9.SyntaxBasics(Generics).md>)
 
 > 泛型。
+
+- 10.[Swift Syntax Supplements](https://github.com/zfanli/notes/blob/master/swift/10.SyntaxSupplement.md)
+
+> 基本语法补充。
