@@ -36,6 +36,6 @@
 
 > 泛型。
 
-- 10.[Swift Syntax Supplements](https://github.com/zfanli/notes/blob/master/swift/10.SyntaxSupplement.md)
+- 10.[Swift Syntax Supplements](https://github.com/zfanli/notes/blob/master/swift/10.SyntaxSupplements.md)
 
 > 基本语法补充。
