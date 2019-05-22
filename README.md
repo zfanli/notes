@@ -32,6 +32,10 @@
 
 > 相机操作基础，用曝光、取景、构图、虚实创作一副好照片。
 
+## LANGUAGE
+
+### [英语笔记](https://github.com/zfanli/notes/tree/master/english)
+
 ## Post Subjects
 
 - [ ] get element with id by type it directly in console.
