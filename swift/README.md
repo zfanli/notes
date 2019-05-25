@@ -38,4 +38,8 @@
 
 - 10.[Swift Syntax Supplements](https://github.com/zfanli/notes/blob/master/swift/10.SyntaxSupplements.md)
 
-> 基本语法补充。
+> 基本语法补充。数字进制、类型别名关键字、断言和先决条件。
+
+- 11.[Swift Basic Operators](https://github.com/zfanli/notes/blob/master/swift/11.BasicOperators.md)
+
+基本操作符。
