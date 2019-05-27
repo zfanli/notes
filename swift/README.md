@@ -42,8 +42,8 @@
 
 - 11.[Swift Basic Operators](https://github.com/zfanli/notes/blob/master/swift/11.BasicOperators.md)
 
-基本操作符。
+> 基本操作符。
 
 - 12.[Strings and Characters](https://github.com/zfanli/notes/blob/master/swift/12.StringsAndCharacters.md)
 
-字符串和字符。
+> 字符串和字符。
