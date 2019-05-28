@@ -44,6 +44,10 @@
 
 > 基本操作符。
 
-- 12.[Strings and Characters](https://github.com/zfanli/notes/blob/master/swift/12.StringsAndCharacters.md)
+- 12.[Swift Strings and Characters](https://github.com/zfanli/notes/blob/master/swift/12.StringsAndCharacters.md)
 
 > 字符串和字符。
+
+- 13.[Swift Collection Types](https://github.com/zfanli/notes/blob/master/swift/13.CollectionTypes.md)
+
+> 集合类型
