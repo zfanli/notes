@@ -55,3 +55,7 @@
 - 14.[Swift Control Flow](https://github.com/zfanli/notes/blob/master/swift/14.ControlFlow.md)
 
 > 流程控制。
+
+- 15.[Swift Functions](https://github.com/zfanli/notes/blob/master/swift/15.Functions.md)
+
+> 函数。
