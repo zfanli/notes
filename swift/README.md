@@ -50,4 +50,8 @@
 
 - 13.[Swift Collection Types](https://github.com/zfanli/notes/blob/master/swift/13.CollectionTypes.md)
 
-> 集合类型
+> 集合类型。
+
+- 14.[Swift Control Flow](https://github.com/zfanli/notes/blob/master/swift/14.ControlFlow.md)
+
+> 流程控制。
