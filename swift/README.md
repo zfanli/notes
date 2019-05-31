@@ -67,3 +67,7 @@
 - 17.[Swift Enumerates & Structs & Classes](https://github.com/zfanli/notes/blob/master/swift/17.EnumeratesStructsClasses.md)
 
 > 枚举类型、结构体、类。复习内容，新点只有一个递归枚举和关键字 `indirect`。
+
+- 18.[Swift Properties and Methods](https://github.com/zfanli/notes/blob/master/swift/18.PropertiesAndMethods.md)
+
+> 属性和方法。
