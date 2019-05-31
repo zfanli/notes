@@ -42,20 +42,24 @@
 
 - 11.[Swift Basic Operators](https://github.com/zfanli/notes/blob/master/swift/11.BasicOperators.md)
 
-> 基本操作符。
+> 基本操作符。基本都是常识内容。
 
 - 12.[Swift Strings and Characters](https://github.com/zfanli/notes/blob/master/swift/12.StringsAndCharacters.md)
 
-> 字符串和字符。
+> 字符串和字符。大致扫一眼就好。
 
 - 13.[Swift Collection Types](https://github.com/zfanli/notes/blob/master/swift/13.CollectionTypes.md)
 
-> 集合类型。
+> 集合类型。这个干货满满，介绍 Array、Set、Dictionary 的基础和常规用法，内容很充实。
 
 - 14.[Swift Control Flow](https://github.com/zfanli/notes/blob/master/swift/14.ControlFlow.md)
 
-> 流程控制。
+> 流程控制。和 basics 的内容几乎无两。新知识只有一个检查 API 版本的语法，和一个标签语法用来在嵌套流程下精准的用 break 和 continue 控制指定流程。
 
 - 15.[Swift Functions](https://github.com/zfanli/notes/blob/master/swift/15.Functions.md)
 
-> 函数。
+> 函数。复习内容，没啥看的必要。看前面的 basics 更友好。
+
+- 16.[Swift Closures](https://github.com/zfanli/notes/blob/master/swift/16.CLosures.md)
+
+> 闭包。也是复习内容，新东西只有 `@excaping` 和 `@autoclosure`，前者可以让一个作为参数传递进来的函数可以在函数本体之外的范围调用，后者可以让传递单句函数得到最大化简写的支持。内容结束。
