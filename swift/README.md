@@ -63,3 +63,7 @@
 - 16.[Swift Closures](https://github.com/zfanli/notes/blob/master/swift/16.CLosures.md)
 
 > 闭包。也是复习内容，新东西只有 `@excaping` 和 `@autoclosure`，前者可以让一个作为参数传递进来的函数可以在函数本体之外的范围调用，后者可以让传递单句函数得到最大化简写的支持。内容结束。
+
+- 17.[Swift Enumerates & Structs & Classes](https://github.com/zfanli/notes/blob/master/swift/17.EnumeratesStructsClasses.md)
+
+> 枚举类型、结构体、类。复习内容，新点只有一个递归枚举和关键字 `indirect`。
