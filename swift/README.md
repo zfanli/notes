@@ -71,3 +71,7 @@
 - 18.[Swift Properties and Methods](https://github.com/zfanli/notes/blob/master/swift/18.PropertiesAndMethods.md)
 
 > 属性和方法。
+
+- 19.[Swift Subscripts and Inheritance](https://github.com/zfanli/notes/blob/master/swift/19.SubscriptsAndInheritance.md)
+
+> 下标语法和继承。
