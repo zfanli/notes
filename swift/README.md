@@ -75,3 +75,7 @@
 - 19.[Swift Subscripts and Inheritance](https://github.com/zfanli/notes/blob/master/swift/19.SubscriptsAndInheritance.md)
 
 > 下标语法和继承。
+
+- 20.[Swift Initialization and Deinitialization](https://github.com/zfanli/notes/blob/master/swift/20.InitializationAndDeinitialization.md)
+
+> 初始化器和卸载器。
