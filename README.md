@@ -7,6 +7,9 @@
 - [ ] Swift
   - [x] Introduction
   - [ ] Syntax Basics
+- [ ] Commit Comment guide
+- [ ] Update Rules for some summary
+- [ ] Reading Book (Photography & its History)
 
 ## PROGRAMING
 
