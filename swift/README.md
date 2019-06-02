@@ -78,4 +78,4 @@
 
 - 20.[Swift Initialization and Deinitialization](https://github.com/zfanli/notes/blob/master/swift/20.InitializationAndDeinitialization.md)
 
-> 初始化器和卸载器。
+> 初始化器和卸载器。有点内容。
