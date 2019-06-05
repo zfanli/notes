@@ -7,6 +7,7 @@
 - [ ] Swift
   - [x] Introduction
   - [ ] Syntax Basics
+  - [ ] SwiftUI
 - [ ] Commit Comment guide
 - [ ] Update Rules for some summary
 - [ ] Reading Book (Photography & its History)
@@ -43,3 +44,4 @@
 
 - [ ] get element with id by type it directly in console.
 - [ ] go though the git basics, for instance, undo commit, back to certain version, etc.
+- [ ] 熔断 and 节流
