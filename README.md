@@ -6,11 +6,18 @@
 
 - [ ] Swift
   - [x] Introduction
-  - [ ] Syntax Basics
+  - [x] Syntax Basics
+  - [ ] Syntax Advanced (WIP)
   - [ ] SwiftUI
+- [ ] Writing App for Mac
+  - [ ] need swift first
+- [ ] Time Utilization Analyzer for iOS & Mac
+  - [ ] need swift first
 - [ ] Commit Comment guide
 - [ ] Update Rules for some summary
-- [ ] Reading Book (Photography & its History)
+- [ ] Books Reading list
+  - [ ] Optics Basics
+  - [ ] Photography History
 
 ## PROGRAMING
 
