@@ -79,3 +79,7 @@
 - 20.[Swift Initialization and Deinitialization](https://github.com/zfanli/notes/blob/master/swift/20.InitializationAndDeinitialization.md)
 
 > 初始化器和卸载器。初始化器内容将近 600 行，内容超多，而且大部分都是 Basics 部分没有涉及到的。
+
+- 21.[Swift Optional Chaining](https://github.com/zfanli/notes/blob/master/swift/21.OptionalChaining.md)
+
+> 可选型操作链。
