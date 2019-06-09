@@ -87,3 +87,7 @@
 - 22.[Swift Error Handling](https://github.com/zfanli/notes/blob/master/swift/22.ErrorHandling.md)
 
 > 错误处理。
+
+- 23.[Swift Type Casting](https://github.com/zfanli/notes/blob/master/swift/23.TypeCasting.md)
+
+类型强转。
