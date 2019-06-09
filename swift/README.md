@@ -90,4 +90,8 @@
 
 - 23.[Swift Type Casting](https://github.com/zfanli/notes/blob/master/swift/23.TypeCasting.md)
 
-类型强转。
+> 类型强转。
+
+- 24.[Swift Extensions](https://github.com/zfanli/notes/blob/master/swift/24.Extensions.md)
+
+> 扩展。
