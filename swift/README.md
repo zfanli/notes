@@ -83,3 +83,7 @@
 - 21.[Swift Optional Chaining](https://github.com/zfanli/notes/blob/master/swift/21.OptionalChaining.md)
 
 > 可选型操作链。
+
+- 22.[Swift Error Handling](https://github.com/zfanli/notes/blob/master/swift/22.ErrorHandling.md)
+
+> 错误处理。
