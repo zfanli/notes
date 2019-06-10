@@ -70,7 +70,7 @@
 
 - 18.[Swift Properties and Methods](https://github.com/zfanli/notes/blob/master/swift/18.PropertiesAndMethods.md)
 
-> 属性和方法。
+> 属性和方法。注意实例属性/方法和类型属性/方法对区别。
 
 - 19.[Swift Subscripts and Inheritance](https://github.com/zfanli/notes/blob/master/swift/19.SubscriptsAndInheritance.md)
 
@@ -95,3 +95,7 @@
 - 24.[Swift Extensions](https://github.com/zfanli/notes/blob/master/swift/24.Extensions.md)
 
 > 扩展。
+
+- 25.[Swift Protocols](https://github.com/zfanli/notes/blob/master/swift/25.Protocols.md)
+
+> 协议。
