@@ -98,4 +98,8 @@
 
 - 25.[Swift Protocols](https://github.com/zfanli/notes/blob/master/swift/25.Protocols.md)
 
-> 协议。
+> 协议。内容超丰富，协议是 Swift 核心内容之一。
+
+- 26.[Swift Generics](https://github.com/zfanli/notes/blob/master/swift/26.Generics.md)
+
+> 泛型，一个进阶话题。内容也是很丰富，核心内容之一。
