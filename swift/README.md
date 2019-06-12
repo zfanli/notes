@@ -103,3 +103,7 @@
 - 26.[Swift Generics](https://github.com/zfanli/notes/blob/master/swift/26.Generics.md)
 
 > 泛型，一个进阶话题。内容也是很丰富，核心内容之一。
+
+- 27.[Swift Opaque Types](https://github.com/zfanli/notes/blob/master/swift/27.OpaqueTypes.md)
+
+> 不透明类型。解决模块内私有类型暴露的问题，和协议作为返回值相比，不透明返回类型保留了类型信息，但是仅对编译器可见，用户无法知道具体类型。暂时感觉是出于性能考虑的一个产物，具体如何还要在实践中感受了。
