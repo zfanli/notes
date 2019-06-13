@@ -111,3 +111,7 @@
 - 28.[Swift Automatic Reference Counting](https://github.com/zfanli/notes/blob/master/swift/28.AutomaticReferenceCounting.md)
 
 > Swift 中的自动引用计数和回收机制。讲到了 `weak` 和 `unowned` 关键字如何解决强引用循环的问题。
+
+- 29.[Swift Memory Safety](https://github.com/zfanli/notes/blob/master/swift/29.MemorySafety.md)
+
+> 内存安全性。
