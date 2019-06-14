@@ -115,3 +115,7 @@
 - 29.[Swift Memory Safety](https://github.com/zfanli/notes/blob/master/swift/29.MemorySafety.md)
 
 > 内存安全性。
+
+- 30.[Swift Access Control](https://github.com/zfanli/notes/blob/master/swift/30.AccessControl.md)
+
+> 访问控制。
