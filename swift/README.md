@@ -118,4 +118,8 @@
 
 - 30.[Swift Access Control](https://github.com/zfanli/notes/blob/master/swift/30.AccessControl.md)
 
-> 访问控制。
+> 访问控制。就是 `public`、`open`、`internal`、`fileprivate`、`private` 几个修饰符用来控制外部能不能对其进行访问的。默认都是 `internal`。
+
+- 31.[Swift Advanced Operators](https://github.com/zfanli/notes/blob/master/swift/31.AdvancedOperators.md)
+
+> 高级操作符。
