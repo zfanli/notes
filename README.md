@@ -7,12 +7,16 @@
 - [ ] Swift
   - [x] Introduction
   - [x] Syntax Basics
-  - [ ] Syntax Advanced (WIP)
+  - [x] Syntax Advanced
   - [ ] SwiftUI
 - [ ] Writing App for Mac
-  - [ ] need swift first
+  - [x] need swift first
+  - [ ] waiting
 - [ ] Time Utilization Analyzer for iOS & Mac
-  - [ ] need swift first
+  - [x] need swift first
+  - [ ] iOS UI basics
+  - [ ] iOS UI advanced
+  - [ ] design UI for this app
 - [ ] Commit Comment guide
 - [ ] Update Rules for some summary
 - [ ] Books Reading list
