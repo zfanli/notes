@@ -23,6 +23,10 @@
 
 技术笔记。
 
+### [EP2 iOS](https://github.com/zfanli/notes/tree/master/ios)
+
+> iOS App 相关。
+
 ### [EP1 Swift](https://github.com/zfanli/notes/tree/master/swift)
 
 > Swift 基础语法和运用。
