@@ -23,6 +23,26 @@
   - [ ] Optics Basics
   - [ ] Photography History
 
+**工作需求**
+
+- [ ] React 16
+  - [ ] hooks
+  - [ ] react spring
+    - [ ] drapable
+    - [ ] auto sortable
+    - [ ] expandable and collapsible
+- [ ] JavaScript
+  - [ ] debounce
+  - [ ] throttle
+
+## TECH POST
+
+技术向文章。
+
+### [EP1 JavaScript 中的防抖和节流到底是什么？](https://github.com/zfanli/notes/tree/master/post/tech/EP1.DebounceAndThrottle)
+
+> 介绍防抖和节流的原理和运用。
+
 ## PROGRAMING
 
 技术笔记。
