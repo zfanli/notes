@@ -25,15 +25,16 @@
 
 **工作需求**
 
-- [ ] React 16
-  - [ ] hooks
-  - [ ] react spring
-    - [ ] drapable
-    - [ ] auto sortable
-    - [ ] expandable and collapsible
-- [ ] JavaScript
-  - [ ] debounce
-  - [ ] throttle
+- React 16
+  - hooks
+- react spring
+  - useSprings
+- Topics of JavaScript
+  - debounce
+  - throttle
+- Watson Speech to Text API
+  - authorization
+  - speech to text
 
 ## TECH POST
 
@@ -79,4 +80,6 @@
 
 - [ ] get element with id by type it directly in console.
 - [ ] go though the git basics, for instance, undo commit, back to certain version, etc.
-- [ ] 熔断 and 节流
+- [ ] debounce and throttle
+- [ ] hooks of react in action
+- [ ] react-spring in action
