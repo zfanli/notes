@@ -7,3 +7,7 @@
 ### [EP1 JavaScript 中的防抖和节流到底是什么？](https://github.com/zfanli/notes/tree/master/post/tech/EP1.DebounceAndThrottle)
 
 > 介绍防抖和节流的原理和运用。
+
+### [EP2 什么是区块链？](https://github.com/zfanli/notes/tree/master/post/tech/EP2.AboutBlockChain)
+
+> 介绍比特币和区块链等原理。
