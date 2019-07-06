@@ -76,6 +76,12 @@
 
 ### [英语笔记](https://github.com/zfanli/notes/tree/master/english)
 
+> 冷知识，拓展视野。
+
+### [听力作业](https://github.com/zfanli/notes/tree/master/english/dictations)
+
+> 语言学习的练习。
+
 ## Post Subjects
 
 - [ ] get element with id by type it directly in console.
