@@ -74,6 +74,8 @@
 
 ## LANGUAGE
 
+> 语言学习。
+
 ### [英语笔记](https://github.com/zfanli/notes/tree/master/english)
 
 > 冷知识，拓展视野。
@@ -84,7 +86,7 @@
 
 ## [HEALTH](https://github.com/zfanli/notes/tree/master/health/physiology)
 
-> 健康管理
+> 健康管理。
 
 ### [Exercise Physiology 运动生理学](https://github.com/zfanli/notes/tree/master/health/physiology/exercise_physiology/README.md)
 
