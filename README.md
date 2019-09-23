@@ -8,7 +8,7 @@
   - [x] Introduction
   - [x] Syntax Basics
   - [x] Syntax Advanced
-  - [ ] SwiftUI
+  - [ ] SwiftUI (waiting for release of new macOS)
 - [ ] Writing App for Mac
   - [x] need swift first
   - [ ] waiting
@@ -17,6 +17,7 @@
   - [ ] iOS UI basics
   - [ ] iOS UI advanced
   - [ ] design UI for this app
+- [ ] JS Library for sortable layout
 - [ ] Commit Comment guide
 - [ ] Update Rules for some summary
 - [ ] Books Reading list
