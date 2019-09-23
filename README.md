@@ -20,9 +20,13 @@
 - [ ] JS Library for sortable layout
 - [ ] Commit Comment guide
 - [ ] Update Rules for some summary
-- [ ] Books Reading list
-  - [ ] Optics Basics
-  - [ ] Photography History
+
+## Reading list
+
+- [ ] Optics Basics
+- [ ] Photography History
+- [ ] Exercise Physiology
+- [ ] Calculus: concepts and contexts
 
 **工作需求**
 
