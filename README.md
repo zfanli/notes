@@ -17,7 +17,7 @@
   - [ ] iOS UI basics
   - [ ] iOS UI advanced
   - [ ] design UI for this app
-- [ ] JS Library for sortable layout
+- [ ] react-free-panel for flexible panel component
 - [ ] Commit Comment guide
 - [ ] Update Rules for some summary
 
