@@ -31,6 +31,10 @@
 ## Need Check
 
 - [ ] (CSS) Multiple box-shadow definition
+- [ ] ThreeJS for 3D app creation
+- [ ] Pixi.js for 2D app creation
+
+## Memo
 
 **工作需求**
 
@@ -45,13 +49,9 @@
   - authorization
   - speech to text
 
-## TECH POST
+## POST
 
-技术向文章。
-
-### [EP1 JavaScript 中的防抖和节流到底是什么？](https://github.com/zfanli/notes/tree/master/post/tech/EP1.DebounceAndThrottle)
-
-> 介绍防抖和节流的原理和运用。
+[Post 文章目录](https://github.com/zfanli/notes/tree/master/post/)。
 
 ## PROGRAMING
 
@@ -81,23 +81,7 @@
 
 > 相机操作基础，用曝光、取景、构图、虚实创作一副好照片。
 
-## LANGUAGE
-
-> 语言学习。
-
-### [英语笔记](https://github.com/zfanli/notes/tree/master/english)
-
-> 冷知识，拓展视野。
-
-### [听力作业](https://github.com/zfanli/notes/tree/master/english/dictations)
-
-> 语言学习的练习。
-
-## [HEALTH](https://github.com/zfanli/notes/tree/master/health/physiology)
-
-> 健康管理。
-
-### [Exercise Physiology 运动生理学](https://github.com/zfanli/notes/tree/master/health/physiology/exercise_physiology/README.md)
+## [Exercise Physiology 运动生理学](https://github.com/zfanli/notes/tree/master/health/exercise_physiology/README.md)
 
 > 《运动生理学》读书笔记。
 
