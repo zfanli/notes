@@ -2,13 +2,23 @@
 
 技术、摄影、读书等笔记。还有 TODOs。
 
+### Progress
+
+1. Mathematics
+   1. Number theory
+   2. Basic geometry
+2. Programming
+   1. Java
+   2. JavaScript
+   3. Python
+   4. Swift
+3. English
+4. Photography
+5. Exercise Physiology
+6. Hangul
+
 ## TODOs
 
-- [ ] Swift
-  - [x] Introduction
-  - [x] Syntax Basics
-  - [x] Syntax Advanced
-  - [ ] SwiftUI (waiting for release of new macOS)
 - [ ] Writing App for Mac
   - [x] need swift first
   - [ ] waiting
@@ -52,38 +62,6 @@
 ## POST
 
 [Post 文章目录](https://github.com/zfanli/notes/tree/master/post/)。
-
-## PROGRAMING
-
-技术笔记。
-
-### [EP2 iOS](https://github.com/zfanli/notes/tree/master/ios)
-
-> iOS App 相关。
-
-### [EP1 Swift](https://github.com/zfanli/notes/tree/master/swift)
-
-> Swift 基础语法和运用。
-
-## [PHOTOGRAPHY](https://github.com/zfanli/notes/tree/master/photography)
-
-摄影笔记。
-
-### [EP3 摄影光学与镜头](https://github.com/zfanli/notes/blob/master/photography/EP3.1.OpticsBasics.md)
-
-> 摄影光学基础知识。
-
-### [EP2 摄影笔记实战篇](https://github.com/zfanli/notes/blob/master/photography/EP2.1.LandscapePhotography.md)
-
-> 具体实例分析摄影技巧。
-
-### [EP1 摄影笔记](https://github.com/zfanli/notes/blob/master/photography/EP1.1.Basics.md)
-
-> 相机操作基础，用曝光、取景、构图、虚实创作一副好照片。
-
-## [Exercise Physiology 运动生理学](https://github.com/zfanli/notes/tree/master/health/exercise_physiology/README.md)
-
-> 《运动生理学》读书笔记。
 
 ## Post Subjects
 
