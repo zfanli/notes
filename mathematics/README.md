@@ -1,9 +1,11 @@
 # Mathematics Notes
 
+Term definitions.
+
 ## Progress
 
 1. Number theory (Arithmetic) **done**
-2. Basic geometry **56%**
+2. Basic geometry **76%**
 3. Pre-algebra
 4. Algebra basics
 5. Algebra I
