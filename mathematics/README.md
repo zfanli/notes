@@ -4,9 +4,9 @@ Term definitions.
 
 ## Progress
 
-1. Number theory (Arithmetic) **78%**
+1. Number theory (Arithmetic) **79%**
 2. Basic geometry **96%**
-3. Pre-algebra **45%**
+3. Pre-algebra **48%**
 4. Algebra basics **13%**
 5. Algebra I **1%**
 6. High school geometry **39%**
