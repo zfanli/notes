@@ -6,15 +6,15 @@ Term definitions.
 
 1. Number theory (Arithmetic) **93%**
 2. Basic geometry **96%**
-3. Pre-algebra **68%**
-4. Algebra basics **16%**
+3. Pre-algebra **70%**
+4. Algebra basics **18%**
 5. Algebra I **1%**
 6. High school geometry **39%**
 7. Algebra II
 8. Trigonometry
 9. Statistics and probability **4%**
 10. High school statistics
-11. AP®︎ statistics
+11. AP®︎ statistics **2%**
 12. Pre-calculus
 13. Differential calculus
 14. Integral calculus
