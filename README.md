@@ -7,15 +7,21 @@
 1. Mathematics
    1. Number theory
    2. Basic geometry
-2. Programming
+   3. Linear algebra
+2. Image processing
+   1. Digital filters
+3. Machine learning
+   1. Tons of subjects...
+4. Programming
    1. Java
    2. JavaScript
    3. Python
    4. Swift
-3. English
-4. Photography
-5. Exercise Physiology
-6. Hangul
+   5. (Maybe?) C++
+5. English
+6. Photography
+7. Exercise Physiology
+8. Hangul
 
 ## TODOs
 
