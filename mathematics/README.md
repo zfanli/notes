@@ -7,8 +7,8 @@ Term definitions.
 1. Number theory (Arithmetic) **93%**
 2. Basic geometry **96%**
 3. Pre-algebra **99%**
-4. Algebra basics **78%**
-5. Algebra I **21%**
+4. Algebra basics **90%**
+5. Algebra I **27%**
 6. High school geometry **39%**
 7. Algebra II
 8. Trigonometry
