@@ -8,7 +8,7 @@ Term definitions.
 2. Basic geometry **96%**
 3. Pre-algebra **99%**
 4. Algebra basics **99%**
-5. Algebra I **54%**
+5. Algebra I **63%**
 6. High school geometry **45%**
 7. Algebra II **3%**
 8. Trigonometry
