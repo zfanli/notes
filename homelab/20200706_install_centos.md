@@ -86,4 +86,33 @@ $ sudo yum install NetworkManager-wifi
 
 安装完成后 `reboot` 一次，拔掉网线，WIFI 将会自动连接。
 
+## 同步时间
+
+本地时间与互联网时间不同步会造成部分在线服务无法访问。在 CentOS 8 中与互联网同步时间需要手动设置。
+
+首先保证时间同步工具 `chrony` 已经安装。
+
+```shell
+$ dnf install -y chrony
+```
+
+> CentOS 8 中 dnf 代替 yum 成为默认包管理工具。不过 yum 依旧可以使用。
+
+确保工具安装之后，编辑一下配置文件，将时间同步服务器修改为国内地区服务器来加快访问速度。
+
+```shell
+$ vi /etc/chrony.conf
+```
+
+将第一行替换为 `pool ntp.ntsc.ac.cn iburst`。
+
+启动自动同步时间。
+
+```shell
+$ systemctl enable chronyd
+$ systemctl start chronyd
+```
+
+稍等片刻，时间将会自动与服务器进行同步。
+
 到此 CentOS 的安装已经完成了。

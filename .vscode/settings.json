@@ -1,7 +1,13 @@
 {
     "cSpell.words": [
+        "DDNS",
         "Homelab",
         "WIFI",
-        "nmuti"
+        "chrony",
+        "chronyd",
+        "iburst",
+        "nmuti",
+        "ntsc",
+        "systemctl"
     ]
 }
