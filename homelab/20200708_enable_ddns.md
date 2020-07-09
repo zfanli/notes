@@ -15,3 +15,19 @@
 - 准备好域名
 - 确保 WAN 口能拿到公网 IP
 - 设置路由器端口映射暴露 Homelab 必要的端口
+
+### 参考
+
+> 待整理。
+
+DDNS script repo。
+
+https://github.com/zfanli/ddns-aliyun
+
+crontab
+
+```shell
+$ crontab -u username /etc/crontab
+
+$ crontab -l -u username
+```

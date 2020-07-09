@@ -7,11 +7,11 @@
 先找个目录放 nginx 的配置文件。我在用户目录下面准备了一块地方来专门放这些文件。你也可以找个你熟悉的位置。
 
 ```shell
-$ cd ~
+$ mkdir -p /etc/homelab/nginx
 
-$ mkdir -p work/nginx
+$ mkdir -p /etc/homelab/nginx/conf.d
 
-$ cd work/nginx
+$ cd /etc/homelab/nginx
 ```
 
 接着准备一份配置文件模版。
@@ -20,6 +20,8 @@ $ cd work/nginx
 $ docker run --name tmp-nginx-container -d nginx
 
 $ docker cp tmp-nginx-container:/etc/nginx/nginx.conf nginx.conf
+
+$ docker cp tmp-nginx-container:/etc/nginx/conf.d/example.conf conf.d/homelab.conf
 
 $ docker rm -f tmp-nginx-container
 ```
@@ -60,4 +62,149 @@ http {
 
     include /etc/nginx/conf.d/*.conf;
 }
+```
+
+### 参考
+
+> 待整理。 TODO
+
+nginx config
+
+```shell
+server {
+    listen 80 default_server;
+    listen [::]:80 default_server;
+    root /var/www/example.com;
+    index index.html;
+    server_name example.com;
+}
+```
+
+## For blog.example.com subdomain
+
+```shell
+server {
+    listen 80;
+    listen [::]:80;
+    root /var/www/blog.example.com;
+    index index.html;
+    server_name blog.example.com;
+}
+```
+
+## For fakenews.com domain
+
+```shell
+server {
+    listen 80;
+    listen [::]:80;
+    root /var/www/fakenews.com;
+    index index.html;
+    server_name fakenews.com;
+}
+
+server {
+
+    ## other configuration as above
+    # ...
+
+    location {
+        proxy_pass http://127.0.0.1:2368;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header HOST $http_host;
+    }
+}
+
+server {
+    listen 3009;
+    listen [::]:3009;
+    server_name bizcat.xyz;
+    location {
+        proxy_pass http://localhost:9090;
+    }
+}
+```
+
+```shell
+docker run -p 80:80 -p 443:443 -p 3009:3009 --name tmp-nginx-container -d -v /etc/homelab/nginx/nginx.conf:/etc/nginx/nginx.conf -v /etc/homelab/nginx/conf.d/homelab.conf:/etc/nginx/conf.d/homelab.conf nginx
+
+docker run \
+    -p 443:443 -p 3009:3009 \
+    --name tmp-nginx-container -d \
+    -v /etc/homelab/nginx/nginx.conf:/etc/nginx/nginx.conf \
+    -v /etc/homelab/nginx/conf.d/homelab.conf:/etc/nginx/conf.d/homelab.conf \
+    -v /etc/letsencrypt/:/etc/letsencrypt/ \
+    nginx
+```
+
+启动防火墙：
+
+```shell
+systemctl start firewalld.service
+```
+
+关闭防火墙：
+
+```shell
+systemctl stop firewalld.service
+```
+
+重启防火墙：
+
+```shell
+systemctl restart firewalld.service
+```
+
+开机启用防火墙：
+
+```shell
+systemctl enable firewalld.service
+```
+
+开机禁用防火墙：
+
+```shell
+systemctl disable firewalld.service
+```
+
+查看防火墙状态：
+
+```shell
+systemctl status firewalld.service
+```
+
+查看端口：
+
+```shell
+firewall-cmd --zone=public --list-ports
+```
+
+添加端口：
+
+```shell
+firewall-cmd --permanent --zone=public --add-port=8080/tcp
+```
+
+删除端口：
+
+```shell
+firewall-cmd --permanent --zone=public --remove-port=8080/tcp
+```
+
+重新加载防火墙规则：
+
+```shell
+firewall-cmd --reload
+```
+
+Get local ip
+
+```shell
+ifconfig wlp2s0 | grep inet | grep -v inet6 | awk '{print $2}'
+```
+
+Set up ssl
+
+```shell
+sudo certbot certonly -d *.bizcat.xyz,bizcat.xyz --manual --preferred-challenges dns --server https://acme-v02.api.letsencrypt.org/directory
 ```
