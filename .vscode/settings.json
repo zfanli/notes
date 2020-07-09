@@ -3,11 +3,22 @@
         "DDNS",
         "Homelab",
         "WIFI",
+        "bizcat",
+        "certbot",
+        "certonly",
         "chrony",
         "chronyd",
+        "firewalld",
         "iburst",
+        "ifconfig",
+        "inet",
+        "keepalive",
+        "letsencrypt",
+        "mkdir",
         "nmuti",
+        "nopush",
         "ntsc",
+        "sendfile",
         "systemctl"
     ]
 }

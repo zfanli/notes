@@ -92,15 +92,15 @@ server {
 }
 ```
 
-## For fakenews.com domain
+## For fake.com domain
 
 ```shell
 server {
     listen 80;
     listen [::]:80;
-    root /var/www/fakenews.com;
+    root /var/www/fake.com;
     index index.html;
-    server_name fakenews.com;
+    server_name fake.com;
 }
 
 server {
@@ -116,11 +116,28 @@ server {
 }
 
 server {
-    listen 3009;
-    listen [::]:3009;
+    listen 3009 ssl;
+    listen [::]:3009 ssl;
     server_name bizcat.xyz;
     location {
-        proxy_pass http://localhost:9090;
+        proxy_pass https://10.0.0.11:9090;
+        proxy_redirect     off;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header HOST $http_host;
+        root html;
+    }
+}
+
+server {
+    listen 3009;
+    listen [::]:3009;
+    server_name router.bizcat.xyz;
+    location {
+        proxy_pass http://10.0.0.1;
+        proxy_redirect     off;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header HOST $http_host;
+        root html;
     }
 }
 ```
