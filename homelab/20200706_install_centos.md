@@ -176,6 +176,8 @@ $ exit
 $ ssh root@homelab
 ```
 
-这时将不再提示输入密码。
+如果这里不再提示密码，则表示配置成功。
+
+> 配置 SSH key 还可以方便 VS Code 远程访问 Homelab，以方便编辑配置文件。
 
 到此 CentOS 的安装和配置就完成了。
