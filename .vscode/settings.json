@@ -15,6 +15,7 @@
         "keepalive",
         "letsencrypt",
         "mkdir",
+        "nmcli",
         "nmuti",
         "nopush",
         "ntsc",

@@ -80,11 +80,17 @@ Homelab 不需要一个 GUI，所以在安装选项上我选择了不带 GUI 的
 
 CentOS 的 WIFI 并非开箱即用，所以我们需要先保证网络。网络畅通的情况下输入下面的命令安装 WIFI 组件。
 
-```shell
+```console
 $ sudo yum install NetworkManager-wifi
 ```
 
 安装完成后 `reboot` 一次，拔掉网线，WIFI 将会自动连接。
+
+> 如果 WIFI 不稳定，可以换成有线连接，此时需要手动关闭 WIFI 连接。可以输入下面命令。
+>
+> ```console
+> $ nmcli radio wifi off
+> ```
 
 ## 同步时间
 
@@ -92,7 +98,7 @@ $ sudo yum install NetworkManager-wifi
 
 首先保证时间同步工具 `chrony` 已经安装。
 
-```shell
+```console
 $ dnf install -y chrony
 ```
 
@@ -100,7 +106,7 @@ $ dnf install -y chrony
 
 确保工具安装之后，编辑一下配置文件，将时间同步服务器修改为国内地区服务器来加快访问速度。
 
-```shell
+```console
 $ vi /etc/chrony.conf
 ```
 
@@ -108,11 +114,68 @@ $ vi /etc/chrony.conf
 
 启动自动同步时间。
 
-```shell
+```console
 $ systemctl enable chronyd
 $ systemctl start chronyd
 ```
 
 稍等片刻，时间将会自动与服务器进行同步。
 
-到此 CentOS 的安装已经完成了。
+## 配置 SSH key
+
+为了方便常用机连接 Homelab 进行操作，可以将常用机的 SSH key 添加到 Homelab 对应用户的 authorized_keys 中以方便登陆。设置完成之后登陆不再需要密码。
+
+> 不需要密码就可以登陆 Homelab，意味着任何人使用你的账号都可以访问到你的服务器，请谨慎考虑其中的风险，不建议在公共机器进行这个设定。
+
+首先需要准备一个 SSH key。如果你使用 Github 或者类似的 git 仓库，那么应该存在一个 SSH key 在你的用户文件夹中。所以先检查 SSH key 是否存在。
+
+```console
+$ ls -l ~/.ssh
+
+# or in windows
+$ ls c:\users\<username>\.ssh
+```
+
+如果你看到一个 `id_rsa.pub` 或者其他以 `.pub` 结尾的文件存在，这就是你的 SSH key 了，你可以选择复用它，也可以用下面命令重新生成一个。
+
+```console
+$ ssh-keygen -t rsa -b 2048
+```
+
+> 生成新的 SSH key 时会提示你选择 key 储存的位置和密码，可以根据需求设置。密码可以留空，表示不需要使用密码。
+
+先看看 SSH key 的内容。等下需要使用到，可以考虑临时保存一下。
+
+```console
+$ cat ~/.ssh/id_rsa.pub
+```
+
+SSH key 内容应该是以 `ssh-rsa` 开始，以你设定到邮箱结尾的一串文本。接下俩我们将其添加到 Homelab 上。
+
+先使用开发机用密码远程登陆 Homelab。注意 `@` 后面的主机地址，我这里用 `homelab` 指代，实际上这里应该填写主机的局域网地址。以后我们也会将 Homelab 绑定到固定到域名上方便我们访问，目前我们还是局域网内访问。
+
+```console
+$ ssh root@homelab
+```
+
+在输入密码完成登陆后，我们在希望免密码登陆的用户的目录下面添加 `authorized_keys` 文件。
+
+```console
+$ touch ~/.ssh/authorized_keys
+
+# copy your ssh key and paste it into this file
+$ vim ~/.ssh/authorized_keys
+```
+
+将开发机的 SSH key 添加到这个文件并保存。
+
+退出当前登陆，重新尝试一次 SSH 登陆。
+
+```console
+$ exit
+$ ssh root@homelab
+```
+
+这时将不再提示输入密码。
+
+到此 CentOS 的安装和配置就完成了。
