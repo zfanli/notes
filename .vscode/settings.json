@@ -6,8 +6,10 @@
         "bizcat",
         "certbot",
         "certonly",
+        "chmod",
         "chrony",
         "chronyd",
+        "containerd",
         "firewalld",
         "iburst",
         "ifconfig",
@@ -17,9 +19,11 @@
         "mkdir",
         "nmcli",
         "nmuti",
+        "nobest",
         "nopush",
         "ntsc",
         "sendfile",
-        "systemctl"
+        "systemctl",
+        "usermod"
     ]
 }

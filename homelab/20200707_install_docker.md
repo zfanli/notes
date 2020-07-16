@@ -10,7 +10,7 @@ https://docs.docker.com/engine/install/centos/
 
 安装 `yum-utils`，使用其中的 `yum-config-manage` 工具将 docker 的 repo 添加到仓库。
 
-```shell
+```console
 $ sudo yum install -y yum-utils
 
 $ sudo yum-config-manager \
@@ -22,7 +22,7 @@ $ sudo yum-config-manager \
 
 接着直接安装必要的组件。
 
-```shell
+```console
 $ sudo yum install docker-ce docker-ce-cli containerd.io
 ```
 
@@ -34,7 +34,7 @@ $ sudo yum install docker-ce docker-ce-cli containerd.io
 
 > 安装过程可能会出现下面的失败信息。
 
-```log
+```console
 $ sudo yum install docker-ce docker-ce-cli containerd.io
 Docker CE Stable - x86_64                        11 kB/s |  25 kB     00:02
  Last metadata expiration check: 0:00:01 ago on Wed 08 Jul 2020 11:46:44 AM CST.
@@ -54,7 +54,7 @@ Docker CE Stable - x86_64                        11 kB/s |  25 kB     00:02
 
 > 这时可能是 `container-tools` 依赖了低版本的 `containerd.io` 导致的，可以通过下面的命令禁用 `container-tools` 解决。
 
-```shell
+```console
 $ yum module disable container-tools
 ```
 
@@ -62,14 +62,28 @@ $ yum module disable container-tools
 
 使用下面命令启动 Docker。
 
-```shell
+```console
 $ sudo systemctl start docker
 ```
 
 > 如果希望使用其他非 root 用户运行 Docker，将其添加到 `docker` 用户组。
 
-```shell
+```console
 $ sudo usermod -aG docker richard
 ```
+
+## (Optional) 安装 docker-compose
+
+按需安装。使用下面命令安装 docker-compose。
+
+```console
+$ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+$ chmod +x /usr/local/bin/docker-compose
+$ docker-compose -v
+```
+
+参考。
+
+https://docs.docker.com/compose/install/
 
 结束。
