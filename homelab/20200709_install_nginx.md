@@ -147,7 +147,7 @@ docker run -p 80:80 -p 443:443 -p 3009:3009 --name tmp-nginx-container -d -v /et
 
 docker run \
     -p 443:443 -p 3009:3009 \
-    --name tmp-nginx-container -d \
+    --name nginx -d \
     -v /etc/homelab/nginx/nginx.conf:/etc/nginx/nginx.conf \
     -v /etc/homelab/nginx/conf.d/homelab.conf:/etc/nginx/conf.d/homelab.conf \
     -v /etc/letsencrypt/:/etc/letsencrypt/ \
