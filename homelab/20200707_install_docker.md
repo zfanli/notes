@@ -72,6 +72,21 @@ $ sudo systemctl start docker
 $ sudo usermod -aG docker richard
 ```
 
+## 防火墙设置
+
+CentOS 8 不再对 Docker 进行官方支持，而是扶持了 buildah 和 podman 提供类似的功能。但是显然目前 Docker 的地位依然无法被取代。
+
+Docker 安装完成后还需要对防火墙进行设置，允许容器访问外部网络。
+
+> 默认情况下在 CentOS 8 上运行的容器从内部无法访问外部网络，具体表现为 DNS 解析出错 or 'no route to host'。
+
+```console
+$ firewall-cmd --permanent --zone=trusted --add-interface=docker0
+$ firewall-cmd --reload
+```
+
+设置完成应该即时生效。（建议 reboot）
+
 ## (Optional) 安装 docker-compose
 
 按需安装。使用下面命令安装 docker-compose。
