@@ -2,6 +2,15 @@
 
 安装 nginx 进行反向代理和端口转发。在进行之前确保 Docker 已经安装。
 
+## Table of Contents
+
+- [Install nginx](#install-nginx)
+  - [Table of Contents](#table-of-contents)
+  - [准备工作](#准备工作)
+    - [参考](#参考)
+  - [For blog.example.com subdomain](#for-blogexamplecom-subdomain)
+  - [For fake.com domain](#for-fakecom-domain)
+
 ## 准备工作
 
 先找个目录放 nginx 的配置文件。我在用户目录下面准备了一块地方来专门放这些文件。你也可以找个你熟悉的位置。

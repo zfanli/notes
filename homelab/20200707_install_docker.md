@@ -6,6 +6,16 @@ https://docs.docker.com/engine/install/centos/
 
 这里使用官方推荐的方法进行安装并记录一下步骤。
 
+## Table of Contents
+
+- [Install Docker](#install-docker)
+  - [Table of Contents](#table-of-contents)
+  - [设置仓库](#设置仓库)
+  - [安装 Docker Engine](#安装-docker-engine)
+  - [启动 Docker Engine](#启动-docker-engine)
+  - [防火墙设置](#防火墙设置)
+  - [(Optional) 安装 docker-compose](#optional-安装-docker-compose)
+
 ## 设置仓库
 
 安装 `yum-utils`，使用其中的 `yum-config-manage` 工具将 docker 的 repo 添加到仓库。

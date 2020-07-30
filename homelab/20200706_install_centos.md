@@ -4,6 +4,18 @@
 
 首先在闲置 PC 上安装 CentOS 系统，同时移除不再使用的 Windows 系统。
 
+## Table of Contents
+
+- [Install CentOS](#install-centos)
+  - [Table of Contents](#table-of-contents)
+  - [准备工作](#准备工作)
+  - [下载 CentOS 系统镜像](#下载-centos-系统镜像)
+  - [将系统镜像写入 U 盘](#将系统镜像写入-u-盘)
+  - [安装 CentOS 系统](#安装-centos-系统)
+  - [链接 WIFI](#链接-wifi)
+  - [同步时间](#同步时间)
+  - [配置 SSH key](#配置-ssh-key)
+
 ## 准备工作
 
 在开始安装 CentOS 到旧 PC 之前，先确保下面这些准备工作已经完成。
