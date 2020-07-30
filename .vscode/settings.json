@@ -22,7 +22,9 @@
         "nobest",
         "nopush",
         "ntsc",
+        "semanage",
         "sendfile",
+        "sshd",
         "systemctl",
         "usermod"
     ]
