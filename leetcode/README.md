@@ -9,3 +9,7 @@
    - Official Solution: Golden Ratio/Binet's Formula, complexity (time/space) O(1) / O(1)
 2. [341] Flatten Nested List Iterator - Medium
    - Stack solution
+3. [1074] Number of Submatrices That Sum to Target - Hard
+   - Prefix sum
+   - Sliding window
+   - DP
