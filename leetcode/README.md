@@ -22,6 +22,8 @@
    - Graph
 6. [1642] Furthest Building You Can Reach - Medium
    - Heap
+7. [745] Prefix and Suffix Search - Hard
+   - Trie
 
 ### TOC
 
