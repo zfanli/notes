@@ -30,12 +30,14 @@
 | #    | Title                                                                                                                      | difficulty |
 | ---- | -------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 1642 | [Furthest Building You Can Reach](./1642.%20Furthest%20Building%20You%20Can%20Reach%20%28Medium%29.md)                     | Medium     |
+| 1480 | [Running Sum of 1d Array](./1480.%20Running%20Sum%20of%201d%20Array%20%28Easy%29.md)                                       | Easy       |
 | 1302 | [Deepest Leaves Sum](./1302.%20Deepest%20Leaves%20Sum%20%28Medium%29.md)                                                   | Medium     |
 | 1192 | [Critical Connections in a Network](./1192.%20Critical%20Connections%20in%20a%20Network%20%28Hard%29.md)                   | Hard       |
 | 1074 | [Number of Submatrices That Sum to Target](./1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target%20%28Hard%29.md) | Hard       |
 | 970  | [Powerful Integers](./970.%20Powerful%20Integers%20%28Medium%29.md)                                                        | Medium     |
 | 745  | [Prefix and Suffix Search](./745.%20Prefix%20and%20Suffix%20Search%20%28Hard%29.md)                                        | Hard       |
 | 667  | [Beautiful Arrangement II](./667.%20Beautiful%20Arrangement%20II%20%28Medium%29.md)                                        | Medium     |
+| 630  | [Course Schedule III](./630.%20Course%20Schedule%20III%20%28Hard%29.md)                                                    | Hard       |
 | 589  | [N-ary Tree Preorder Traversal](./589.%20N-ary%20Tree%20Preorder%20Traversal%20%28Easy%29.md)                              | Easy       |
 | 509  | [Fibonacci Number](./509.%20Fibonacci%20Number%20%28Easy%29.md)                                                            | Easy       |
 | 341  | [Flatten Nested List Iterator](./341.%20Flatten%20Nested%20List%20Iterator%20%28Medium%29.md)                              | Medium     |
