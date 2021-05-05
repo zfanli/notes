@@ -37,6 +37,7 @@
 | 970  | [Powerful Integers](./970.%20Powerful%20Integers%20%28Medium%29.md)                                                        | Medium     |
 | 745  | [Prefix and Suffix Search](./745.%20Prefix%20and%20Suffix%20Search%20%28Hard%29.md)                                        | Hard       |
 | 667  | [Beautiful Arrangement II](./667.%20Beautiful%20Arrangement%20II%20%28Medium%29.md)                                        | Medium     |
+| 665  | [Non-decreasing Array](./665.%20Non-decreasing%20Array%20%28Medium%29.md)                                                  | Medium     |
 | 630  | [Course Schedule III](./630.%20Course%20Schedule%20III%20%28Hard%29.md)                                                    | Hard       |
 | 589  | [N-ary Tree Preorder Traversal](./589.%20N-ary%20Tree%20Preorder%20Traversal%20%28Easy%29.md)                              | Easy       |
 | 509  | [Fibonacci Number](./509.%20Fibonacci%20Number%20%28Easy%29.md)                                                            | Easy       |
@@ -46,5 +47,6 @@
 | 63   | [Unique Paths II](./63.%20Unique%20Paths%20II%20%28Medium%29.md)                                                           | Medium     |
 | 62   | [Unique Paths](./62.%20Unique%20Paths%20%28Medium%29.md)                                                                   | Medium     |
 | 48   | [Rotate Image](./48.%20Rotate%20Image%20%28Medium%29.md)                                                                   | Medium     |
+| 45   | [Jump Game II](./45.%20Jump%20Game%20II%20%28Medium%29.md)                                                                 | Medium     |
 | 39   | [Combination Sum](./39.%20Combination%20Sum%20%28Medium%29.md)                                                             | Medium     |
 | 19   | [Remove Nth Node From End of List](./19.%20Remove%20Nth%20Node%20From%20End%20of%20List%20%28Medium%29.md)                 | Medium     |
