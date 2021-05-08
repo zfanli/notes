@@ -24,6 +24,8 @@
    - Heap
 7. [745] Prefix and Suffix Search - Hard
    - Trie
+8. [45] Jump Game II - Medium
+   - Greedy
 
 ### TOC
 
